@@ -1,0 +1,33 @@
+Deducted 1 point for not trimming
+Deducted 1 point for public helpers
+
+ANG ZHEN XUAN
+
+ANNABEL ENG JING WEN
+- User userWhoPosted = new(lol);
+- The main problem is that the syntax is wrong, usually you can call a method by "methodName(lol);", or if you are creating a new object, it should be "new User(lol);", new is a keyword and cannot be used as a method name. Secondly, "lol" is not initialized.
+
+CHEN ZHILIANG
+- Algorithm points should be 5+15+5+2=27
+
+FAN JINGYI
+
+FELICIA HUANG
+
+GWEE EE REN
+
+LENG KENN SIANG
+
+NG YONG KHUANG
+
+SHI TIANYUAN
+
+SONG KAI
+
+TONG TSZ HIN
+
+YONG ZHUN HUNG
+
+ZHANG YUHAN
+
+ZHAO WEILONG
